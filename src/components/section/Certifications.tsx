@@ -27,7 +27,7 @@ const Certifications = () => {
     }
   ];
 
-  const credentials: never[] = [];
+  const credentials: {id: string; image: string; alt: string; title: string; subtitle: string; status: string; credentialUrl: string}[] = [];
 
   return (
     <section id="certifications" className="py-8 relative" style={{
