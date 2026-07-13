@@ -23,3 +23,5 @@ Based on the template by [cupidbity](https://github.com/cupidbity/portfolio-temp
 ## License
 
 MIT — template by [cupidbity](https://github.com/cupidbity)
+Updated assignment documentation.
+Repository documentation updated after review.
