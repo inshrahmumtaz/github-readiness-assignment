@@ -27,3 +27,4 @@ Use descriptive commit messages such as:
 Merge commit demonstration.
 Merge commit.
 Merge.
+M.
