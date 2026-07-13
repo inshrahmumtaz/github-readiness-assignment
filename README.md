@@ -20,7 +20,11 @@ Based on the template by [cupidbity](https://github.com/cupidbity/portfolio-temp
 - Image carousel for project screenshots
 - Responsive design across all devices
 
+<<<<<<< HEAD
 ## License - Conflict Demo
+=======
+## License - Main Update
+>>>>>>> origin/main
 
 MIT — template by [cupidbity](https://github.com/cupidbity)
 Added first documentation update.
