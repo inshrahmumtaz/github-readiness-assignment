@@ -23,3 +23,4 @@ Based on the template by [cupidbity](https://github.com/cupidbity/portfolio-temp
 ## License
 
 MIT — template by [cupidbity](https://github.com/cupidbity)
+Rebase merge demonstration.
