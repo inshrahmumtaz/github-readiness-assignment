@@ -24,3 +24,4 @@ Use descriptive commit messages such as:
 - Link the related issue.
 - Ensure changes are tested.
 - Request a review before merging.
+Merge commit demonstration.
