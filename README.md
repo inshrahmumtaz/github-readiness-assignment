@@ -23,5 +23,9 @@ Based on the template by [cupidbity](https://github.com/cupidbity/portfolio-temp
 ## License
 
 MIT — template by [cupidbity](https://github.com/cupidbity)
+<<<<<<< HEAD
 Added first documentation update.
 Corrected documentation wording.
+=======
+Rebase merge demonstration.
+>>>>>>> origin/main
