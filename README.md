@@ -20,12 +20,16 @@ Based on the template by [cupidbity](https://github.com/cupidbity/portfolio-temp
 - Image carousel for project screenshots
 - Responsive design across all devices
 
+<<<<<<< HEAD
+## License - Conflict Demo
+=======
 ## License - Main Update
+>>>>>>> origin/main
 
 MIT — template by [cupidbity](https://github.com/cupidbity)
-<<<<<<< HEAD
 Added first documentation update.
 Corrected documentation wording.
-=======
 Rebase merge demonstration.
->>>>>>> origin/main
+## Merge Commit Demo
+
+This change demonstrates the GitHub merge commit workflow.
